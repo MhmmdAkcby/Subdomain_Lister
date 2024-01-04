@@ -12,16 +12,20 @@ Install the required library using:
 
 ```bash
 pip install requests
-
+```
 
 ## Usage
 
 --> Clone the repository:
+```bash
 git clone https://github.com/yourusername/subdomain-finder.git
 cd subdomain-finder
+```
 
 --> Run the script:
+```bash
 python subdomain_finder.py
+```
 
 ## Configuration
 You can customize the script by modifying the target_input and subdomainlist.txt file.
